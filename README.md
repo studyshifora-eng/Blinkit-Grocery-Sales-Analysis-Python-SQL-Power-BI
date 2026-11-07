@@ -121,16 +121,16 @@ This project demonstrates how raw retail data can be transformed into meaningful
 
 ### Sales by Item Type
 
-![Sales by Item Type](<sales_by_item_type.png>)
+![Sales by Item Type](<Sales_by_item_type.png>)
 
 ### Sales by Outlet Location
 
-![Sales by Outlet Location](<sales_by_outlet location type.png>)
+![Sales by Outlet Location](<Sales_by_outlet location type.png>)
 
 ### Sales by Outlet Size
 
-![Sales by Outlet Size](</sales_by_outlet_size.png>)
+![Sales by Outlet Size](<Sales_by_outlet_size.png>)
 
 ### Sales by Fat Content
 
-![Sales by Fat Content](<sales_by_fat_content.png>)
+![Sales by Fat Content](<Sales_by_fat_content.png>)
