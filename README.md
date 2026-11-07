@@ -115,4 +115,6 @@ This project demonstrates how raw retail data can be transformed into meaningful
 
 ## Power BI Dashboard
 
-![Blinkit Power BI Dashboard](Power bi snapshot.png)
+## Power BI Dashboard
+
+![Blinkit Power BI Dashboard](<Power bi snapshot.png>)
