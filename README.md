@@ -115,6 +115,22 @@ This project demonstrates how raw retail data can be transformed into meaningful
 
 ## Power BI Dashboard
 
-## Power BI Dashboard
-
 ![Blinkit Power BI Dashboard](<Power bi snapshot.png>)
+
+## Exploratory Data Analysis
+
+### Sales by Item Type
+
+![Sales by Item Type](<sales_by_item_type.png>)
+
+### Sales by Outlet Location
+
+![Sales by Outlet Location](<sales_by_outlet location type.png>)
+
+### Sales by Outlet Size
+
+![Sales by Outlet Size](</sales_by_outlet_size.png>)
+
+### Sales by Fat Content
+
+![Sales by Fat Content](<sales_by_fat_content.png>)
